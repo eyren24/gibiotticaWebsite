@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b59898a-7d85-4f15-bb08-31f66908d35e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="package.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hHQQiWuJscgelsxsx1p3lZi3nR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.1.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.14.10&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/xampp/htdocs&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\emili\\AppData\\Local\\Programs\\PhpStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PS-241.18034.69" />
+        <option value="bundled-php-predefined-ba97393d7c68-48a1a656d44e-com.jetbrains.php.sharedIndexes-PS-241.18034.69" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b59898a-7d85-4f15-bb08-31f66908d35e" name="Changes" comment="" />
+      <created>1717248510031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717248510031</updated>
+      <workItem from="1717248510669" duration="8035000" />
+      <workItem from="1717333221756" duration="3749000" />
+      <workItem from="1717357290910" duration="818000" />
+      <workItem from="1717431230002" duration="1830000" />
+      <workItem from="1717445637976" duration="3742000" />
+      <workItem from="1717490251324" duration="1483000" />
+      <workItem from="1717502205128" duration="1784000" />
+      <workItem from="1717944017917" duration="9000" />
+      <workItem from="1718054617491" duration="94000" />
+      <workItem from="1718054926740" duration="2527000" />
+      <workItem from="1718093229847" duration="9907000" />
+      <workItem from="1718264259335" duration="999000" />
+      <workItem from="1720536288483" duration="1030000" />
+      <workItem from="1720544014348" duration="1414000" />
+      <workItem from="1720545471104" duration="312000" />
+      <workItem from="1720560607487" duration="3382000" />
+      <workItem from="1720602648484" duration="3048000" />
+      <workItem from="1720608073306" duration="8067000" />
+      <workItem from="1720627685584" duration="1186000" />
+      <workItem from="1720716153902" duration="12401000" />
+      <workItem from="1720737976616" duration="174000" />
+      <workItem from="1720738230339" duration="578000" />
+      <workItem from="1720905052488" duration="412000" />
+      <workItem from="1720949441784" duration="19000" />
+      <workItem from="1720963229361" duration="300000" />
+      <workItem from="1720963549459" duration="51000" />
+      <workItem from="1720997687580" duration="251000" />
+      <workItem from="1720997948030" duration="1000" />
+      <workItem from="1721031386923" duration="46000" />
+      <workItem from="1721036036497" duration="1324000" />
+      <workItem from="1721054124673" duration="154000" />
+      <workItem from="1721061123671" duration="406000" />
+      <workItem from="1721141804855" duration="139000" />
+      <workItem from="1721550463967" duration="3998000" />
+      <workItem from="1721556722366" duration="220000" />
+      <workItem from="1721556949876" duration="3115000" />
+      <workItem from="1721579258797" duration="5000" />
+      <workItem from="1721579718795" duration="715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

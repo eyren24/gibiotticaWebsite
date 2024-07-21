@@ -1,0 +1,69 @@
+.custom-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60%;
+    height: 100%;
+    background: #1f3d63;
+    clip-path: polygon(0 0, 75% 0, 100% 100%, 0 100%);
+    z-index: -1;
+}
+
+.img-product {
+    width: 1055px;
+    height: 670px;
+}
+
+.text-product {
+    color: white;
+    font-size: 65px;
+}
+
+.price-product {
+    color: #1f3d63;
+    font-size: 100px;
+    display: inline-block;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+.colored-square {
+    width: 50px;
+    height: 50px;
+    margin: 0 5px;
+}
+
+.color-red {
+    background: #881423;
+}
+
+.color-green {
+    background: #275c28;
+}
+
+.color-yellow {
+    background: #e1d966;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #1f3d63; /* Change this to your desired color */
+    width: 15px;  /* Change this to your desired width */
+    height: 15px; /* Change this to your desired height */
+    border-radius: 50%; /* This makes the indicators round, adjust if needed */
+}
+
+.carousel-indicators .active {
+    background-color: #1f3d63; /* Change this to your desired active color */
+    transform: scale(1.5);
+}
+
+.carousel-circle {
+    width: 50px;
+!important;
+    height: 50px;
+!important;
+    background: #1f3d63;
+!important;
+    color: #1f3d63;
+!important;
+}
